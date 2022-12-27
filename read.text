@@ -1,0 +1,5 @@
+1. To start te project first copy te files into htdoc folder within xampp.
+2. Import .sql files to mysql database.
+3. register using user details.
+4. LogIn to create, update, view and delete posts as writer.
+5. Log In as Editor to view and comment on posts posted by writers.
